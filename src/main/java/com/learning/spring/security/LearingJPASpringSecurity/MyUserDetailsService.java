@@ -1,5 +1,6 @@
 package com.learning.spring.security.LearingJPASpringSecurity;
 
+import com.learning.spring.security.LearingJPASpringSecurity.models.MyUserDetails;
 import org.springframework.security.core.userdetails.UserDetails;
 import org.springframework.security.core.userdetails.UserDetailsService;
 import org.springframework.security.core.userdetails.UsernameNotFoundException;
